@@ -13,7 +13,9 @@
   - [x] src/services
   - [x] src/styles
 - [x] package.json 생성 (Next.js 16, React 19, TypeScript, Tailwind CSS v4)
-- [x] git-commit 스킬 추가
+- [x] git-commit 스킬 추가 (progress.md 자동 업데이트 기능 포함)
+- [x] rest-api-test 스킬 추가
+- [x] 커스텀 에이전트 추가 (frontend-dev, backend-dev)
 
 ### 다음 작업
 - [ ] Next.js 설정 파일 생성 (next.config.ts)
